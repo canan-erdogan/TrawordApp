@@ -1,0 +1,2 @@
+# TrawordApp
+ TranslatorDesktopApp
