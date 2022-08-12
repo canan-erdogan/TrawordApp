@@ -7,7 +7,7 @@ Builder.load_file("kv/traword_box_content_translatebox.kv")
 class TrawordBoxContentTranslatebox(BoxLayout):
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
-        word = Label(font_size= 30)
+        word = Label(font_size=30)
 
         translated_word = Label(font_size=30)
 
